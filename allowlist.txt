@@ -1,2 +1,2 @@
 ! Hagezis Most Abused TLDs exclusions
-@@||tante.cc^
+||tante.cc^
