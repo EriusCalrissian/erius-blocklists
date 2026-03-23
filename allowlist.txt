@@ -1,3 +1,4 @@
 ! Hagezis Most Abused TLDs exclusions
 ||tante.cc^
 ||ddl-warez.cc^
+||sykwriter.blue^
