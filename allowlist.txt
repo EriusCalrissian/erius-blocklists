@@ -3,3 +3,4 @@
 ||ddl-warez.cc^
 ||skywriter.blue^
 ||thedial.world^
+||filecrypt.cc^
