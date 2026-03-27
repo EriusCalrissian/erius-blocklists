@@ -6,3 +6,6 @@
 ||skywriter.blue^
 ||thedial.world^
 ||filecrypt.cc^
+||hoerbuch.us^
+||ebook-land.cc^
+||dokumen.pub^
