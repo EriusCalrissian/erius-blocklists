@@ -10,3 +10,4 @@
 ||ebook-land.cc^
 ||dokumen.pub^
 ||monogr.ph^
+||jefferycontrolmodel.com^
