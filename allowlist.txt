@@ -11,6 +11,9 @@
 ||thedial.world^
 ||tante.cc^
 
+!Commernce
+||heltec.org^
+
 !F
 ||jefferycontrolmodel.com^
 ||ddl-warez.cc^
