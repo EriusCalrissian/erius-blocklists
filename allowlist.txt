@@ -1,3 +1,4 @@
+!Local
 ||fritz.box^
 
 ! Hagezis Most Abused TLDs exclusions
