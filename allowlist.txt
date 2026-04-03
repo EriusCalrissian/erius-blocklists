@@ -1,13 +1,19 @@
 ||fritz.box^
 
 ! Hagezis Most Abused TLDs exclusions
-||tante.cc^
-||ddl-warez.cc^
+
+!Services
+||monogr.ph^
+
+!Media
 ||skywriter.blue^
 ||thedial.world^
+||tante.cc^
+
+!F
+||jefferycontrolmodel.com^
+||ddl-warez.cc^
 ||filecrypt.cc^
 ||hoerbuch.us^
 ||ebook-land.cc^
 ||dokumen.pub^
-||monogr.ph^
-||jefferycontrolmodel.com^
