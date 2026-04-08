@@ -6,6 +6,9 @@
 !Services
 ||monogr.ph^
 
+!Various
+||cryptoanarchy.wiki^
+
 !Media
 ||skywriter.blue^
 ||thedial.world^
