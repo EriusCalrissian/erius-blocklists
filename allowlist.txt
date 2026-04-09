@@ -9,6 +9,9 @@
 !Various
 ||cryptoanarchy.wiki^
 
+Education
+||sci-hub.se^
+
 !Media
 ||skywriter.blue^
 ||thedial.world^
