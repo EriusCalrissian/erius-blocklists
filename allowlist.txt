@@ -12,6 +12,9 @@
 Education
 ||sci-hub.se^
 
+TUM
+||tum.sexy^
+
 !Media
 ||skywriter.blue^
 ||thedial.world^
