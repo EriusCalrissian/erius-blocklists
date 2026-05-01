@@ -5,14 +5,16 @@
 
 !Services
 ||monogr.ph^
+||copilot.fun^
 
 !Various
 ||cryptoanarchy.wiki^
 
-Education
+!Education
 ||sci-hub.se^
 
-TUM
+!DACH
+||smed.health^
 ||tum.sexy^
 
 !Media
